@@ -1,0 +1,6 @@
+batas maksimal 100kmperjam minimal 60kmperjam
+batas maksimal 80kmperjam minimal 60kmperjam
+batas maksimal 100kmperjam
+batas maksimal 80kmperjam
+batas maksimal 40kmperjam
+gerbang tol
