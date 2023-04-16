@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>file122.png</filename>
+	<path>/home/user/jetson-train/data/model01/JPEGImages/file122.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1454</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batas maksimal 80kmperjam minimal 60kmperjam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>218</ymin>
+			<xmax>563</xmax>
+			<ymax>1354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>batas maksimal 40kmperjam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>608</xmin>
+			<ymin>325</ymin>
+			<xmax>787</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>
