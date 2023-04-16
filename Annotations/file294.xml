@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>file294.png</filename>
+	<path>/home/user/jetson-train/data/model01/JPEGImages/file294.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1454</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gerbang tol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>522</ymin>
+			<xmax>768</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>batas maksimal 80kmperjam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>557</ymin>
+			<xmax>461</xmax>
+			<ymax>727</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>batas maksimal 100kmperjam minimal 60kmperjam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>535</ymin>
+			<xmax>205</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+</annotation>
